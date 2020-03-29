@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81615533-e047-4f52-8997-01f04051c665" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zmi1ExClnlEPNpHNKJeDqB0VtV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Dart" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\nkpb\toh-6\lib\src" />
+      <recent name="D:\nkpb\toh-6\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81615533-e047-4f52-8997-01f04051c665" name="Default Changelist" comment="" />
+      <created>1585450452990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585450452990</updated>
+      <workItem from="1585450454993" duration="3410000" />
+      <workItem from="1585453990731" duration="16694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1293" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585455764472">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1293" y="227" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/89.0.1831.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585455764472" />
+    <state x="-1211" y="241" key="FileChooserDialogImpl" timestamp="1585453164390">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1211" y="241" key="FileChooserDialogImpl/89.0.1831.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585453164390" />
+    <state x="-1324" y="203" width="728" height="674" key="find.popup" timestamp="1585470740923">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1324" y="203" width="728" height="674" key="find.popup/89.0.1831.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585470740923" />
+  </component>
+</project>
